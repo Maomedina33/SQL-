@@ -1,4 +1,4 @@
-const readline = require('readline');
+const readline = require('readline');  // LO VAMOS A USAR PARA EL JUEGO DE PIEDRA, PAPEL O TIJERA, RECUERDALO!!
 
 const rl = readline.createInterface({
   input: process.stdin,
