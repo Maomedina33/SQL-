@@ -1,0 +1,1 @@
+DROP DATABASE test; -- borrar la base de datos o esquema --

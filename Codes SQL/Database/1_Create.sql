@@ -1,0 +1,1 @@
+CREATE DATABASE test; -- test es el nombre del esquema
